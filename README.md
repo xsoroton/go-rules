@@ -9,7 +9,7 @@ To run
 make run
 ```
 
-###Build and run in Docker container
+### Build and run in Docker container
 ```bash
 make run-in-docker
 ```
